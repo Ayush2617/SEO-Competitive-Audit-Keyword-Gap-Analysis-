@@ -1,6 +1,6 @@
 # Search Intelligence SEO Toolkit
 
-**A comprehensive Python toolkit for SEO audits, keyword research, competitor analysis, and professional reporting — built for Search Intelligence Associate portfolios.**
+**A comprehensive Python toolkit for SEO audits, keyword research, competitor analysis, and professional reporting.**
 
 ## Overview
 This project demonstrates end-to-end search intelligence capabilities:
