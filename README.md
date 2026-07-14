@@ -35,7 +35,7 @@ seo-audit-toolkit/
 
 ## Installation
 ```bash
-git clone <your-repo>
+git clone <SEO-Competitive-Audit-Keyword-Gap-Analysis->
 cd seo-audit-toolkit
 pip install -r requirements.txt
 ```
@@ -59,11 +59,18 @@ Outputs saved to `reports/` folder:
 - Python (pandas, openpyxl, python-docx, reportlab)
 - Data visualization & reporting
 
-## Contributing
-Feel free to extend with live APIs (Google Search Console, SEMrush, etc.).
 
-## License
-MIT
+
+## Author
+
+**Ayush Pratap Singh**
+B.Tech Graduate | Aspiring Data Analyst
+
+## Connect With Me
+
+* GitHub: https://github.com/Ayush2617
+* LinkedIn: https://www.linkedin.com/in/ayushpratapsingh2612/
+
 
 ---
 **Built to highlight Search Intelligence Associate competencies.**
